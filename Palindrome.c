@@ -8,9 +8,9 @@ int main(){
         n/=10;
     }
     if(r==k){
-        printf("True");
+        printf("Palindrome");
     }
     else{
-        printf("False");
+        printf("Not Palindrome");
     }
 }
